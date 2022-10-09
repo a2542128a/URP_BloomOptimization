@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0ca6dca7396eb48e5849247ffd444914
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: packages/com.unity.render-pipelines.universal/shaders/bakedlit
+  assetBundleVariant: 
