@@ -1,2 +1,6 @@
 # URP 7.7.1
-# bloom mobile optimization
+# 移动端bloom优化 
+## 1、采样分辨率1/2 => 1/4
+## 2、采样次数缩减（skipCount）
+## 3、多余一次冗余采样剔除（最大采样次数的up贴图没使用到）
+## 4、blur算法由高斯改为双重川濑模糊
